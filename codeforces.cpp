@@ -73,5 +73,3 @@ int main()
     }
 }
 
-// Git practice
-//second change
